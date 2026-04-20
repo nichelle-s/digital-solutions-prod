@@ -1,4 +1,4 @@
-# Digital Solutions - Production Environment Smulation
+# Digital Solutions - Production Environment Simulation
 
 ## Overview
 This project demonstrates the ability to manage and operate a multi-instance cloud environment within AWS. The initial infrastructure was established using AI-generated Terraform and bootstrap scripts to create a realistic "inherited" corporate stack for a mock company, "Digital Solutions."
